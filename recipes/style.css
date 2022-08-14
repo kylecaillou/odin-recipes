@@ -1,0 +1,16 @@
+.headers{
+    background-color: rgb(226, 82, 82);
+    color: white;
+}
+
+#rice_img{
+    width: 25%;
+}
+
+#oats_img{
+    width: 25%;
+}
+
+body{
+    background-color: rgb(224, 170, 170);
+}
